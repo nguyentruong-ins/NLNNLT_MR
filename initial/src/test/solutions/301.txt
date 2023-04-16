@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([FuncCall(putInt, [BinExpr(+, IntegerLit(100), IntegerLit(1))])]))
+])

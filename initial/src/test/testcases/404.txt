@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, IntegerType, [], None, BlockStmt([FuncCall(putIntLn, [FuncCall(getInt, [IntegerLit(4)])])]))
+])
